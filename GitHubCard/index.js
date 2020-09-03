@@ -26,7 +26,7 @@ function createCard(name) {
       console.log(newCard);
     })
     .catch(() => {
-      debugger;
+      // debugger;
     });
 }
 /*
